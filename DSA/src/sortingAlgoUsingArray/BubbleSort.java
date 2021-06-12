@@ -1,7 +1,7 @@
 package sortingAlgoUsingArray;
 
 import java.util.Arrays;
-
+//Quadratic Time Complexity 
 public class BubbleSort {
 
 	public static void main(String[] args) {
