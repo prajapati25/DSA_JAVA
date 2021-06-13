@@ -2,7 +2,7 @@ package sortingAlgoUsingArray;
 
 import java.util.Arrays;
 
-public class ShellShort {
+public class ShellSort {
 
 	public static void main(String[] args) {
 
